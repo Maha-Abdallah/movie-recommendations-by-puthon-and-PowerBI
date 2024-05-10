@@ -8,7 +8,7 @@ This repository implements a movie recommendation system using K-Nearest Neighbo
 
 This project aims to provide personalized movie recommendations for users based on their past ratings or interactions. The system utilizes KNN to identify users with similar movie preferences and suggest movies they might enjoy. Additionally, the project explores the integration of Python output with Power BI for insightful data visualization.
 
-Installation
+# Installation
 
 Create a Python Environment:I'am using virtual environment manager Jupyter.
 Install Dependencies: Activate virtual environment and install the required libraries using pip install -r requirements.txt 
