@@ -41,3 +41,19 @@ Further Development
 Explore more sophisticated recommendation algorithms (e.g., Matrix Factorization).
 Implement a user interface for interactive recommendations.
 Enhance the Power BI report with additional visualizations.
+
+# Comments
+
+1. Positive Correlation Between Budget and Revenue:
+
+The observation that the top 10 highest-grossing genres also have the largest budgets suggests a positive correlation between budget and revenue. This could indicate that higher investment in production (reflected in budget) leads to greater financial returns.
+
+2. Potential Trend of Increasing Budget and Revenue Over Time:
+
+The observation of a rise in both budget and revenue over time suggests a potential trend.  However, it's important to consider factors like inflation to see if the increase is real or just reflects rising costs.
+
+3. Popularity Doesn't Guarantee High Revenue:
+
+The observation that not all popular genres have high revenue highlights the fact that popularity is just one factor influencing revenue.  Further analysis could explore other factors that contribute to financial success, such as genre trends, marketing effectiveness, and critical reception.
+
+
